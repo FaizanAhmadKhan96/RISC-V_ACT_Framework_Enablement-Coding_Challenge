@@ -119,7 +119,6 @@ echo "ACT_PONG" > /dev/pts/4   # to send a response back
 
 ### UART DEMO with virtual serial ports
 
-
-
+https://github.com/user-attachments/assets/3c473f33-b03d-47ae-915c-54dd5543c80e
 
 ---
